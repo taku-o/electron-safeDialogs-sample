@@ -1,0 +1,16 @@
+{
+  "name": "optimal-feedback-happen",
+  "productName": "optimal-feedback-happen",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "taku.omi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "3.1.1"
+  }
+}
